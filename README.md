@@ -40,7 +40,7 @@ Game Engines:   Unity (2D)
 - [LinkedIn](https://www.linkedin.com/in/aram-al-hussein)
 - [GitHub](https://github.com/AramAlHussein)
 - [Behance](https://www.behance.net/AramAlHussein)
-- [My Resume on Behance](www.behance.net/AramAlHussein/resume)
+- [My Resume on Behance](https://www.behance.net/AramAlHussein/resume)
 
 > "I build ideas from sketch to screen, code them with clarity, and design them with soul."
 

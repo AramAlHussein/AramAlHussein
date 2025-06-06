@@ -31,7 +31,20 @@ Game Engines:   Unity (2D)
 
 ## 📌 Projects
 
-🚧 Coming soon – Currently working on uploading selected freelance and personal projects.
+### ✅ Published Projects:
+
+- [`Aram – Full-Stack Portfolio Website`](https://www.behance.net/gallery/227587105/Aram-Full-Stack-Portfolio-Website)  
+  *Modern single-page portfolio showcasing development & UI/UX skills.*
+
+---
+
+### 🚧 Coming Soon:
+
+- 🔧 **Portfolio v2** — Enhanced version with smooth animations and refined UI/UX.
+- 🏢 **Corporate Website for AAT** — Professional site for business presence.
+- 🎓 **ES-Edu Platform** — Educational portal for an academic institute.
+
+> More projects will be added soon. Stay tuned!
 
 ---
 

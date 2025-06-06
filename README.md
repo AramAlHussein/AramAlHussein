@@ -37,7 +37,7 @@ Game Engines:   Unity (2D)
 
 ## 🌐 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/AramAlHussein)
+- [LinkedIn](https://www.linkedin.com/in/AramHussein)
 - [GitHub](https://github.com/AramAlHussein)
 - [Behance](https://www.behance.net/AramAlHussein)
 - [My Resume on Behance](https://www.behance.net/AramAlHussein/resume)

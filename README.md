@@ -36,6 +36,10 @@ Game Engines:   Unity (2D)
 - [`Aram – Full-Stack Portfolio Website`](https://www.behance.net/gallery/227587105/Aram-Full-Stack-Portfolio-Website)  
   *Modern single-page portfolio showcasing development & UI/UX skills.*
 
+- [`Arcodé – UI/UX Design for Website & Dashboard`](https://www.behance.net/gallery/227695387/Arcod-UIUX-Design-for-Website-Dashboard)  
+  *Complete UI/UX design for a corporate website and an admin dashboard, focusing on usability, clarity, and modern aesthetics.*
+
+
 ---
 
 ### 🚧 Coming Soon:

@@ -75,4 +75,16 @@ Game Engines:   Unity (2D)
 
 ---
 
+✦ **Aram Al-Hussein**  
+*Full-Stack Developer | UI/UX Designer*  
+〰 Creator of **Arcodé** — where design meets logic  
+
+[Behance](https://www.behance.net/AramAlHussein) | [GitHub](https://github.com/AramAlHussein) | [LinkedIn](https://www.linkedin.com/in/aramhussein)  
+
+> *"I don’t just build, I compose experiences."*  
+
+`© 2025 Arcodé Studio`
+
+---
+
 > Feel free to collaborate or reach out — let's build something meaningful together.

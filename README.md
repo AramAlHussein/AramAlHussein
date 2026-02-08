@@ -1,90 +1,53 @@
-# 👋 Hello, I'm Aram Al-Hussein
+# Aram Al-Hussein
 
-**🎯 Full-Stack Web Developer | 🎨 UI/UX Designer | 🎮 Game Developer**
+**ERP Systems Architect & Senior Full-Stack Developer**
 
----
+I design and deliver scalable, production-ready ERP and business systems where
+system architecture, backend logic, and workflows are aligned with real operational needs.
 
-## 💡 About Me
-
-I'm a passionate developer and designer from Syria with a multidisciplinary background in:
-- 🧠 **Web Development** using **Laravel, PHP, JS, Bootstrap**
-- 🎨 **UI/UX Design** using **Adobe XD, Figma, Ps, Ai**
-- 🎮 **2D Game Development** using **Unity (C#)**
-
-Currently a student of:
-- 🎓 **Information Technology Engineering (ITE) – Syrian Virtual University** (specializing in Cybersecurity)
-- 🎓 **Telecommunication Engineering - Al-Baath University** (specializing in Microwave & Radio Systems)
-- 📘 Studying **Translation** and **Management Sciences**
+My work focuses on building modular platforms that support long-term growth,
+data integrity, and secure access control not demos or short-lived solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Do
 
-```txt
-Languages:      PHP, Py, JS, C\C++, C#
-Frameworks:     Laravel, Bootstrap
-Tools:          Git, GitHub, VS\VS Code, Adobe XD, Ps, Ai, Figma
-Game Engines:   Unity (2D)
-```
-
----
-
-## 📌 Projects
-
-### ✅ Published Projects:
-
-- [`Aram – Full-Stack Portfolio Website`](https://www.behance.net/gallery/227587105/Aram-Full-Stack-Portfolio-Website)  
-  *Modern single-page portfolio showcasing development & UI/UX skills.*
-
-- [`Arcodé – UI/UX Design for Website & Dashboard`](https://www.behance.net/gallery/227695387/Arcod-UIUX-Design-for-Website-Dashboard)  
-  *Complete UI/UX design for a corporate website and an admin dashboard, focusing on usability, clarity, and modern aesthetics.*
-
+- Architect modular ERP systems (HR, Inventory, Procurement, Access Control)
+- Build Laravel-based HMVC platforms designed for production environments
+- Design and implement Role-Based Access Control (RBAC)
+- Translate complex business processes into maintainable software systems
+- Deliver systems ready for real teams, real data, and long-term use
 
 ---
 
-### 🚧 Coming Soon:
+## Tech Stack
 
-- 🔧 **Portfolio v2** — Enhanced version with smooth animations and refined UI/UX.
-- 🏢 **Corporate Website for AAT** — Professional site for business presence.
-- 🎓 **ES-Edu Platform** — Educational portal for an academic institute.
-
-> More projects will be added soon. Stay tuned!
-
----
-
-## 🌐 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/AramHussein)
-- [GitHub](https://github.com/AramAlHussein)
-- [Behance](https://www.behance.net/AramAlHussein)
-- [My Resume on Behance](https://www.behance.net/AramAlHussein/resume)
-
-> "I build ideas from sketch to screen, code them with clarity, and design them with soul."
+- **Backend:** PHP (Laravel)
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Architecture:** HMVC, Modular Systems, RBAC
+- **Database:** MySQL
+- **Infrastructure:** Linux (Debian), Git
+- **UI/UX:** Figma, Adobe XD
 
 ---
 
-## 🧩 Fun Facts
+## Selected Work
 
-- 🎼 I play the Oud
-- ✍️ I write poetry & literary reflections
-- ⚔️ I enjoy poetic duels and creative expression
+- **Arcodé – Modular ERP Foundation**  
+  A scalable ERP platform designed as a secure, modular foundation for enterprise and SaaS use.  
+  👉 https://www.behance.net/AramAlHussein
 
----
-
-![Aram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AramAlHussein&show_icons=true&theme=radical)
-
----
-
-✦ **Aram Al-Hussein**  
-*Full-Stack Developer | UI/UX Designer*  
-〰 Creator of **Arcodé** — where design meets logic  
-
-[Behance](https://www.behance.net/AramAlHussein) | [GitHub](https://github.com/AramAlHussein) | [LinkedIn](https://www.linkedin.com/in/aramhussein)  
-
-> *"I don’t just build, I compose experiences."*  
-
-`© 2025 Arcodé Studio`
+- **Business Dashboards & Admin Systems**  
+  ERP dashboards and administrative systems focused on clarity, workflow efficiency,
+  and operational control.
 
 ---
 
-> Feel free to collaborate or reach out — let's build something meaningful together.
+## Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/AramHussein  
+- **Behance:** https://www.behance.net/AramAlHussein  
+
+---
+
+> I build systems meant to operate, scale, and survive real-world usage.

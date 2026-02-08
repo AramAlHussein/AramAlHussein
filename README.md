@@ -6,7 +6,7 @@ I design and deliver scalable, production-ready ERP and business systems where
 system architecture, backend logic, and workflows are aligned with real operational needs.
 
 My work focuses on building modular platforms that support long-term growth,
-data integrity, and data integrity, and secure access control — not demos or short-lived solutions.
+data integrity, and data integrity, and secure access control not demos or short-lived solutions.
 
 > Most of my production work involves internal ERP systems and private deployments.
 > Source code is primarily maintained locally or in restricted environments.

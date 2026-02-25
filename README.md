@@ -1,5 +1,5 @@
 # Aram Al-Hussein
-### ERP Systems Architect & Senior Full-Stack Developer
+### Backend Engineer | ERP System Designer | Laravel | Secure & Structured Business Applications
 
 I design and deliver scalable, production-ready ERP and business systems where architecture, backend logic, and workflows are aligned with real operational needs.
 
